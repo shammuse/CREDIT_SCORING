@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+psycopg2-binary==2.9.10
+streamlit
